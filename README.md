@@ -2,8 +2,8 @@
 
 🌍 Global Environmental Trends Dashboard – Excel Dashboard Project
 
-🔗 My LinkedIn
-📥 Download the Excel File
+**🔗 [My LinkedIn](https://www.linkedin.com/in/ahmad-yasser-faiq-data-analyst/)**  
+**📥 [Download the Excel File](https://github.com/ahmadyase1234/Adidas-quantity-analysis-/raw/main/Adidas_Analysis_project.xlsx)**  
 
 
 ---
