@@ -10,7 +10,7 @@
 
 📊 Dashboard Preview
 
-<img src="https://your-image-hosting-link.com/environmental_dashboard_preview.jpg" width="1000">
+<img src="https://github.com/ahmadyase1234/global-environmental-trends/blob/main/global%20environmental%20%20trends%20analysis.PNG" width="1000">
 ---
 
 📝 Introduction
